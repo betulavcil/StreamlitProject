@@ -24,14 +24,11 @@ col1.markdown(
 col2.subheader("Kalp Krizini Ne Etkiler")
 col2.markdown(
     "Kalp krizi riskini artıran birçok faktör vardır. Yaş ilerledikçe damarlar esnekliğini kaybeder ve tıkanma riski artar."
- "Erkeklerde risk daha yüksek olsa da menopoz sonrası kadınlarda da artış görülür. "
- "Sigara ve alkol kullanımı damarları daraltarak ve pıhtı oluşumunu artırarak krizi tetikleyebilir." 
- "Diyabet ve ani kan şekeri yükselmeleri damar duvarlarına zarar vererek süreci hızlandırır. Ailede kalp hastalığı öyküsü varsa genetik yatkınlık riski artırır." 
-" Düzenli egzersiz yapmak ise kan dolaşımını iyileştirerek damar sağlığını korur ve kalp krizini önlemede önemli bir rol oynar.")
+ "Erkeklerde risk daha yüksek olsa da menopoz sonrası kadınlarda da artış görülür. ")
+col2.image(
+    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVuMmNtYjMzYzMzNGt0M2hsdW9xYnNiNmNwa2R1d203YTNxMmlwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzclsv1x3zhVS/giphy.gif")
 col2.markdown(
  "Sigara ve alkol kullanımı damarları daraltarak ve pıhtı oluşumunu artırarak krizi tetikleyebilir." 
  "Diyabet ve ani kan şekeri yükselmeleri damar duvarlarına zarar vererek süreci hızlandırır. Ailede kalp hastalığı öyküsü varsa genetik yatkınlık riski artırır." 
 " Düzenli egzersiz yapmak ise kan dolaşımını iyileştirerek damar sağlığını korur ve kalp krizini önlemede önemli bir rol oynar.")
-col2.image(
-    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVuMmNtYjMzYzMzNGt0M2hsdW9xYnNiNmNwa2R1d203YTNxMmlwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzclsv1x3zhVS/giphy.gif")
 
