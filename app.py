@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 
 
-st.set_page_config(layout='wide', page_title='HeartAttackRisk', page_icon='🏘')
+st.set_page_config(layout='wide', page_title='HeartAttackRisk', page_icon='🖤')
 
 
-st.title(':rainbow[Heart]:red[AttackRisk]')
+st.title(':black[Heart]:red[AttackRisk]')
 
 
 home_tab, predict_tab = st.tabs(["Ana Sayfa", "Risk Tahmini"])
@@ -25,6 +25,10 @@ col2.subheader("Kalp Krizini Ne Etkiler")
 col2.markdown(
     "Kalp krizi riskini artıran birçok faktör vardır. Yaş ilerledikçe damarlar esnekliğini kaybeder ve tıkanma riski artar."
  "Erkeklerde risk daha yüksek olsa da menopoz sonrası kadınlarda da artış görülür. "
+ "Sigara ve alkol kullanımı damarları daraltarak ve pıhtı oluşumunu artırarak krizi tetikleyebilir." 
+ "Diyabet ve ani kan şekeri yükselmeleri damar duvarlarına zarar vererek süreci hızlandırır. Ailede kalp hastalığı öyküsü varsa genetik yatkınlık riski artırır." 
+" Düzenli egzersiz yapmak ise kan dolaşımını iyileştirerek damar sağlığını korur ve kalp krizini önlemede önemli bir rol oynar.")
+col2.markdown(
  "Sigara ve alkol kullanımı damarları daraltarak ve pıhtı oluşumunu artırarak krizi tetikleyebilir." 
  "Diyabet ve ani kan şekeri yükselmeleri damar duvarlarına zarar vererek süreci hızlandırır. Ailede kalp hastalığı öyküsü varsa genetik yatkınlık riski artırır." 
 " Düzenli egzersiz yapmak ise kan dolaşımını iyileştirerek damar sağlığını korur ve kalp krizini önlemede önemli bir rol oynar.")
