@@ -32,3 +32,7 @@ col2.markdown(
  "Diyabet ve ani kan şekeri yükselmeleri damar duvarlarına zarar vererek süreci hızlandırır. Ailede kalp hastalığı öyküsü varsa genetik yatkınlık riski artırır." 
 " Düzenli egzersiz yapmak ise kan dolaşımını iyileştirerek damar sağlığını korur ve kalp krizini önlemede önemli bir rol oynar.")
 
+
+
+
+
