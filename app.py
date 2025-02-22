@@ -1,17 +1,8 @@
 import streamlit as st
 import pandas as pd
-import joblib
 
 
 st.set_page_config(layout='wide', page_title='HeartAttackRisk', page_icon='🏘')
-
-
-@st.cache_data
-def get_pipeline():
-    pipeline = joblib.load('final_model.pkl')
-    return pipeline
-
-model = get_pipeline()
 
 
 st.title(':rainbow[Heart]:red[AttackRisk]')
