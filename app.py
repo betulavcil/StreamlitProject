@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(layout='wide', page_title='HeartAttackRisk', page_icon='🖤')
 
 
-st.title('[Heart]:red[AttackRisk]')
+st.title('Heart:red[AttackRisk]')
 
 
 home_tab, predict_tab = st.tabs(["Ana Sayfa", "Risk Tahmini"])
